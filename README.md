@@ -27,6 +27,5 @@ Tujuan aplikasi ini untuk memantau suhu dan kelembapan pada kubikel 20kv dengan 
 Aplikasi ini memiliki lisensi BSD 3-Clause License, dengan catatan
 1. Harus memiliki kode keypass aplikasi untuk menjalankan program
 2. Memiliki izin dari developer untuk memodifikasi aplikasi
-3. Developer TempCubiclePi tidak bertanggung jawab jika pengguna meng-unduh aplikasi selain dari 
-https://github.com/basyair7/TempCubiclePi (aplikasi bajakan)
+3. Developer TempCubiclePi tidak bertanggung jawab jika pengguna meng-unduh aplikasi selain dari https://github.com/basyair7/TempCubiclePi (aplikasi bajakan)
 
