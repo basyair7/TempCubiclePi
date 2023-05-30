@@ -47,7 +47,6 @@ Jika muncul error seperti ini, pengguna harus memiliki file serviceAccount.json 
 File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7" target="_blank">Telegram</a>
 
 # Powered By
-### <a href="https://customtkinter.tomschimansky.com/" target="_blank">Custom Tkinter</a>
 <p align="center">
     <a href="https://customtkinter.tomschimansky.com/" target="_blank">
         <picture>
@@ -57,11 +56,13 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7" targ
     </a>
 </p>
 
-### <a href="https://firebase.google.com/" target="_blank">Firebase Database</a>
+### <a href="https://customtkinter.tomschimansky.com/" target="_blank" align="center">Custom Tkinter</a>
 
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg" width="50%">
     </a>
 </p>
+
+### <a href="https://firebase.google.com/" target="_blank" align="center" >Firebase Database</a>
 
