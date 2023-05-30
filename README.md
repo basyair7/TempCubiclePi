@@ -13,6 +13,8 @@ Tujuan aplikasi ini untuk memantau suhu dan kelembapan pada kubikel 20kv dengan 
 - Ambil Data
 - Setop Ambil Data
 - Tampilkan data sensor per kubikel
+- Hapus data per kubikel (Hapus Kubikel)
+- Hapus semua data kubikel (Hapus Gardu Hubung)
 - Grafik suhu kubikel
 - Grafik kelembapan kubikel
 - Grafik daya kubikel
