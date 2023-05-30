@@ -58,8 +58,6 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7">Tele
 ### <a href="https://firebase.google.com/" target="-blank">Firebase Database</a>
 
 <p align="center">
-    <picture>
-        <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg">
-    </picture>
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg">
 </p>
 
