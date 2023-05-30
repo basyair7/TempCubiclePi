@@ -56,7 +56,7 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7" targ
     </a>
 </p>
 
-### <a href="https://customtkinter.tomschimansky.com/" target="_blank">Custom Tkinter</a>
+<h3 align="center"><a href="https://customtkinter.tomschimansky.com/" target="_blank">Custom Tkinter</a></h3>
 
 <p>
     <a href="https://firebase.google.com/" target="_blank">
@@ -64,5 +64,5 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7" targ
     </a>
 </p>
 
-### <a href="https://firebase.google.com/" target="_blank">Firebase Database</a>
+<h3 align="center"><a href="https://firebase.google.com/" target="_blank">Firebase Database</a></h3>
 
