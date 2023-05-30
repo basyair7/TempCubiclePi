@@ -49,12 +49,12 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7">Tele
 # Powered By
 ### <a href="https://customtkinter.tomschimansky.com/" target="-blank">Custom Tkinter</a>
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_dark.png">
-        <a href="https://customtkinter.tomschimansky.com/" target="-blank">
+    <a href="https://customtkinter.tomschimansky.com/" target="-blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_dark.png">
             <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_light.png" width="50%">
-        </a>
-    </picture>
+        </picture>
+    </a>
 </p>
 
 ### <a href="https://firebase.google.com/" target="-blank">Firebase Database</a>
