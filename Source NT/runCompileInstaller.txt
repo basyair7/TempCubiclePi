@@ -1,0 +1,1 @@
+pyinstaller --add-data "winenv/Lib/site-packages/customtkinter;customtkinter/" -w -i "Source Inno/src/res/images/icon.ico" src/appTempCubiclePi.py
