@@ -5,7 +5,7 @@ Project Program Magang MBKM Kampus Merdeka 2022
 Tujuan aplikasi ini untuk memantau suhu dan kelembapan pada kubikel 20kv dengan sistem Internet of Things
 
 #Features Aplikasi TempCubiclePi
-<img align="center" src="./images/tempcubicle-interface.png" alt="yoimiya-chan" width="100%">
+<img align="center" src="./images/tempcubicle-interface.png" width="20%">
 ##Feature utama
 - Menambah Nama Gardu Hubung
 - Memasukan Data Baru Gardu Hubung
@@ -17,7 +17,7 @@ Tujuan aplikasi ini untuk memantau suhu dan kelembapan pada kubikel 20kv dengan 
 - Grafik daya kubikel
 
 ##Feature tambahan
-<img align="center" src="./images/feature1_1.png" alt="yoimiya-chan" width="100%">
+<img align="center" src="./images/feature1_1.png" width="20%">
 - Unduh rekaman Kubikel 
 - Buka folder rekaman
 
