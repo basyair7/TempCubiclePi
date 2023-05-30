@@ -40,10 +40,10 @@ Tujuan aplikasi ini untuk membantu pemantauan suhu dan kelembapan pada kubikel 2
 <img align="center" src="./images/feature-grafik-rtdb.png" width="50%">
 
 - Setting Aplikasi
-<img align="center" src="./feature-settings.png" width="50%">
+<img align="center" src="./images/feature-settings.png" width="50%">
 
 - Restart modul sensor/server secara jarak jauh
-<img align="center" src="./feature-reset" width="50%">
+<img align="center" src="./images/feature-reset" width="50%">
 
 # Spesifikasi Aplikasi TempCubicle Pi
 - Windows 7, 8.1, 10, 11 dengan operasi 64 bit (x86_64)
