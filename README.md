@@ -38,3 +38,6 @@ Aplikasi ini memiliki lisensi BSD 3-Clause License, dengan catatan
 Jika muncul error seperti ini, pengguna harus memiliki file serviceAccount.json dan index.json. 
 File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7">Telegram</a>
 
+# Powered By
+## <a href="https://firebase.google.com/">Firebase Database</a>
+
