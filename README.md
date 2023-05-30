@@ -51,13 +51,17 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7">Tele
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_dark.png">
-        <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_light.png" width="50%">
+        <a href="https://customtkinter.tomschimansky.com/" target="-blank">
+            <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_light.png" width="50%">
+        </a>
     </picture>
 </p>
 
 ### <a href="https://firebase.google.com/" target="-blank">Firebase Database</a>
 
 <p align="center">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg" width="50%">
+    <a href="https://firebase.google.com/" target="-blank">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg" width="50%">
+    </a>
 </p>
 
