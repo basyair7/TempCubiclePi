@@ -24,6 +24,11 @@ Tujuan aplikasi ini untuk memantau suhu dan kelembapan pada kubikel 20kv dengan 
 - Unduh rekaman Kubikel 
 - Buka folder rekaman
 
+# Spesifikasi Aplikasi TempCubicle Pi
+- Windows 7, 8.1, 10, 11 dengan operasi 64 bit (x86_64)
+- Ram 4gb atau lebih baik
+- Hardisk 200mb atau lebih baik
+
 # Lisensi Aplikasi
 Aplikasi ini memiliki lisensi BSD 3-Clause License, dengan catatan
 1. Harus memiliki kode keypass aplikasi untuk menjalankan program
