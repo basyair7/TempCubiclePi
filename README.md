@@ -47,6 +47,6 @@ Jika muncul error seperti ini, pengguna harus memiliki file serviceAccount.json 
 File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7">Telegram</a>
 
 # Powered By
-### <a href="https://customtkinter.tomschimansky.com/">Custom Tkinter</a>
+### <a href="https://customtkinter.tomschimansky.com/"><img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_dark.png" align="center"></a>
 ### <a href="https://firebase.google.com/">Firebase Database</a>
 
