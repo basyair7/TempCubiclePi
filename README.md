@@ -60,7 +60,7 @@ File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7" targ
 
 <p align="center">
     <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg" width="50%">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/firebase/images/lockup.svg" width="30%">
     </a>
 </p>
 
