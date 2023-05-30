@@ -39,5 +39,5 @@ Jika muncul error seperti ini, pengguna harus memiliki file serviceAccount.json 
 File tersebut bisa dapat menghubungi developer <a href="https://t.me/ahul7">Telegram</a>
 
 # Powered By
-## <a href="https://firebase.google.com/">Firebase Database</a>
+### <a href="https://firebase.google.com/">Firebase Database</a>
 
