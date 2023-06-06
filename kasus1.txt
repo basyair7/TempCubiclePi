@@ -3,10 +3,14 @@
 2. buka tab execute
 3. paste kan kode yang dibawah ini
 
-attach 'c:\test\b.db3' as toMerge;           
-BEGIN; 
-insert into nama_table select * from toMerge.nama_tabel; 
-COMMIT; 
+attach 'd:\DB\data_server_GH_PKA_mei_2023.db' as toMerge;     
+BEGIN;
+insert into nama_tabel(
+	date,time,gardu_hubung,kubikel,arus_heater,tegangan_heater,daya_heater,energy_heater,freq_heater,pf_heater,
+	suhu,kelembapan,dimmer_heater,dimmer_fan,fisOutputHeater,fisOutputFan
+	) select * from toMerge.nama_tabel;
+COMMIT;
 detach toMerge;
+
 
 "nama_tabel" merupakan contoh seperti nama kubikel/nama gardu
