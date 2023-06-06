@@ -3,14 +3,11 @@
 2. buka tab execute
 3. paste kan kode yang dibawah ini
 
-attach 'd:\DB\data_server_GH_PKA_mei_2023.db' as toMerge;     
-BEGIN;
+attach 'd:\DB\data_server_GH_PKA_mei_2023.db' as toMerge;
 insert into nama_tabel(
 	date,time,gardu_hubung,kubikel,arus_heater,tegangan_heater,daya_heater,energy_heater,freq_heater,pf_heater,
 	suhu,kelembapan,dimmer_heater,dimmer_fan,fisOutputHeater,fisOutputFan
-	) select * from toMerge.nama_tabel;
-COMMIT;
-detach toMerge;
-
+	) select date,time,gardu_hubung,kubikel,arus_heater,tegangan_heater,daya_heater,energy_heater,freq_heater,pf_heater,
+	suhu,kelembapan,dimmer_heater,dimmer_fan,fisOutputHeater,fisOutputFan from toMerge.nama_tabel;
 
 "nama_tabel" merupakan contoh seperti nama kubikel/nama gardu
