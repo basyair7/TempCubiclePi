@@ -10,6 +10,9 @@ Project Tugas Akhir Fathul Basyair (Mahasiswa Teknik Elektro USK 2019)
 ## Tujuan aplikasi
 Tujuan aplikasi ini untuk membantu pemantauan suhu dan kelembapan pada kubikel 20kv dengan sistem Internet of Things
 
+## Opsional
+Silahkan download <a href="https://sqlitebrowser.org/dl/">DB Browser for SQLite</a> agar bisa lebih leluasa untuk operasi aplikasi TempCubiclePi
+
 # Features Aplikasi TempCubiclePi
 <img align="center" src="./images/tempcubiclepi-interface.png" width="50%">
 

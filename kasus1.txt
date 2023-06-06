@@ -1,0 +1,10 @@
+# cara merge 2 file sqlite.db
+1. buka file dengan DB Browser for SQLite
+2. buka tab execute
+3. paste kan kode yang dibawah ini
+
+attach 'c:\test\b.db3' as toMerge;           
+BEGIN; 
+insert into AuditRecords select * from toMerge.AuditRecords; 
+COMMIT; 
+detach toMerge;
