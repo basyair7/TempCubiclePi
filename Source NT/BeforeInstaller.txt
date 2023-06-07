@@ -1,0 +1,12 @@
+********************************* WAJIB BACA !!! *********************************
+Syarat mengoperasikan aplikasi TempCubiclePi
+1. Pastikan sistem operasi minimal windows 7, 8.1, 10 (x86_64 atau x64, 64bit)
+2. Pastikan sudah mempunyai keypass aplikasi
+3. Pastikan penyimpanan komputer lebih dari 200 mb
+4. Pastikan komputer memiliki akses internet
+5. Pastikan mempunyai file serviceAccount.json dan index.json (file hanya dapat dari author aplikasi)
+
+Jika ada kendala silahkan hubungi : 
+Github 	: https://github.com/basyair7
+Telegram	: https://t.me/ahul7
+
