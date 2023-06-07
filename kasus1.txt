@@ -1,0 +1,15 @@
+# cara merge 2 file sqlite.db
+1. buka file dengan DB Browser for SQLite
+2. buka tab execute
+3. paste kan kode yang dibawah ini
+
+attach 'd:\DB\example.db' as toMerge;
+insert into PA01(
+	date,time,gardu_hubung,kubikel,arus_heater,tegangan_heater,daya_heater,energy_heater,freq_heater,pf_heater,
+	suhu,kelembapan,dimmer_heater,dimmer_fan,fisOutputHeater,fisOutputFan
+	) select date,time,gardu_hubung,kubikel,arus_heater,tegangan_heater,daya_heater,energy_heater,freq_heater,pf_heater,
+	suhu,kelembapan,dimmer_heater,dimmer_fan,fisOutputHeater,fisOutputFan from toMerge.PA01;
+DROP TABLE IF EXISTS toMerge.PA01;
+
+
+"nama_tabel" merupakan contoh seperti nama kubikel/nama gardu
