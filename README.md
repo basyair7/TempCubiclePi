@@ -4,7 +4,6 @@ Project Tugas Akhir Fathul Basyair (Mahasiswa Teknik Elektro USK 2019)
 ## Pembaruan Aplikasi
 - Memperbaiki fitur merge database (penambahan settings waktu)
 - Menambah fitur Opsi pilih Gardu Hubung sebelum melakukan "ambil data"
-- Menambah fitur convert ke xlsx (Excel)
 - Memperbaiki splashMain dan FirebaseDB
 
 ## Tujuan aplikasi
