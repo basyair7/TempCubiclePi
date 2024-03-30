@@ -1,0 +1,7 @@
+silahkan buat file dengan nama index.json
+dan isikan file tersebut dengan format
+
+{
+    "https": "your-link-firebase-database-realtime",
+    "https_storage": "your-link-firebase-storage"
+}

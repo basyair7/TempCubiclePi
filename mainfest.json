@@ -1,0 +1,7 @@
+{
+    "name": "TempCubiclePi v1.7.3-rev5",
+    "repo": {
+        "nt": "https://raw.githubusercontent.com/basyair7/TempCubiclePi/V1.7.3-rev5/Source%20NT/appTempCubiclePi_V1.7.3-rev5_Win_x86_64.rar",
+        "posix": "https://raw.githubusercontent.com/basyair7/TempCubiclePi/V1.7.3-rev5/Source%20Posix/appTempCubiclePi_V1.7.3-rev5_Linux_x86_64.tar.xz"
+    }
+}
