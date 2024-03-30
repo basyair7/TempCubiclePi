@@ -2,9 +2,8 @@
 Project Tugas Akhir Fathul Basyair (Mahasiswa Teknik Elektro USK 2019)
 
 ## Pembaruan Aplikasi
-- Memperbaiki fitur merge database (penambahan settings waktu)
-- Menambah fitur Opsi pilih Gardu Hubung sebelum melakukan "ambil data"
-- Memperbaiki splashMain dan FirebaseDB
+- Penambahan fitur bahasa aplikasi
+- Perbarui core app
 
 ## Tujuan aplikasi
 Tujuan aplikasi ini untuk membantu pemantauan suhu dan kelembapan pada kubikel 20kv dengan sistem Internet of Things
