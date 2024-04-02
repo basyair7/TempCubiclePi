@@ -18,7 +18,9 @@ Tujuan aplikasi ini untuk membantu pemantauan suhu dan kelembapan pada kubikel 2
 Silahkan download <a href="https://sqlitebrowser.org/dl/">DB Browser for SQLite</a> agar lebih leluasa untuk operasi aplikasi TempCubiclePi
 
 # Features Aplikasi TempCubiclePi
-<img align="center" src="./images/tempcubiclepi-interface.png" width="50%">
+<div align="center">
+    <img align="center" src="./images/tempcubiclepi-interface.png" width="50%">
+</div>
 
 ## Feature utama
 - Ambil Data
