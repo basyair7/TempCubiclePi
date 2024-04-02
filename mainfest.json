@@ -5,5 +5,8 @@
         "nt": "https://raw.githubusercontent.com/basyair7/TempCubiclePi/V1.7.3-rev5/Source%20NT/appTempCubiclePi_V1.7.3-rev5_Win_x86_64.rar",
         "posix": "https://raw.githubusercontent.com/basyair7/TempCubiclePi/V1.7.3-rev5/Source%20Posix/appTempCubiclePi_V1.7.3-rev5_Linux_x86_64.tar.xz"
     },
-    "descriptions": "1. Penambahan fitur bahasa aplikasi\n2.Perbarui core app"
+    "descriptions": {
+        "id": "- Penambahan fitur bahasa aplikasi\n- Perbarui Core App\n- Include notification program (for windows)",
+        "en": "- Addition of app language features\n- Update Core App\n- Include notification program (for windows)"
+    }
 }
