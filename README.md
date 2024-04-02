@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://github.com/basyair7/TempCubiclePi/releases/latest">
+        <img src="https://img.shields.io/github/v/tag/basyair7/TempCubiclePi?label=VERSION&style=for-the-badge" alt="Version">
+    </a>
+</p>
+
 # TempCubiclePi
 Project Tugas Akhir Fathul Basyair (Mahasiswa Teknik Elektro USK 2019)
 
