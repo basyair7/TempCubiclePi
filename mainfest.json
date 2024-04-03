@@ -6,7 +6,7 @@
         "posix": "https://raw.githubusercontent.com/basyair7/TempCubiclePi/V1.7.3-rev5/Source%20Posix/appTempCubiclePi_V1.7.3-rev5_Linux_x86_64.tar.xz"
     },
     "descriptions": {
-        "id": "- Penambahan fitur bahasa aplikasi\n- Perbarui Core App\n- Perbarui Settings App\n- Perubahan parameter alarm indikator (ubah menjadi indikator kelembapan)\n- Perubahan SplashMain\n- Include notification program (for windows)",
-        "en": "- Addition of app language features\n- Update Core App\n- Update Settings App\n- Indicator alarm parameter change (change to humidity indicator)\n- SplashMain program change\n- Include notification program (for windows)"
+        "id": "- Penambahan fitur bahasa aplikasi\n- Perbarui Core App\n- Perbarui Settings App\n- Perubahan parameter alarm indikator (ubah menjadi indikator kelembapan)\n- Perubahan SplashMain\n- Include notification program (for windows)\n- Perubahan fitur update aplikasi",
+        "en": "- Addition of app language features\n- Update Core App\n- Update Settings App\n- Indicator alarm parameter change (change to humidity indicator)\n- SplashMain program change\n- Include notification program (for windows)\n -Changes to the app update feature"
     }
 }
